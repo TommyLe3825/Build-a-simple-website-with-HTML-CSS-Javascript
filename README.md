@@ -11,7 +11,7 @@ General Assembly Free Class for Javascript:
 
 **Takeaways:**
 
-*Know the role Javascript plays in web development.
-*Understand how to define, access, and manipulate the DOM using Javascript to make a website interactive.
-*Hands-on practice programming the content and appearance of a website to change in response to user actions.
-*Learn how to access and retrieve data from an API.
+* Know the role Javascript plays in web development.
+* Understand how to define, access, and manipulate the DOM using Javascript to make a website interactive.
+* Hands-on practice programming the content and appearance of a website to change in response to user actions.
+* Learn how to access and retrieve data from an API.
